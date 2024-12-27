@@ -5,7 +5,7 @@ Project status: WIP, alpha.
 Self-hosted Twitch chat tracker, collects chat messages and do something with
 them.
 
-Initial PLANNED Features (priority matters):
+Initial PLANNED features (priority matters):
 
 - Token management with ncurses interface;
 - Automatic chat messages collector, sort of subscriptions;
@@ -28,7 +28,9 @@ Backend:
 
 Frontend:
 
-- ncurses interface;
+- [React](https://react.dev/);
+- [Node.js](https://nodejs.org/en);
+...
 
 Devtools:
 
