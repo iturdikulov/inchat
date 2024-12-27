@@ -7,29 +7,29 @@ them.
 
 Initial PLANNED features (priority matters):
 
-- Token management with ncurses interface;
-- Automatic chat messages collector, sort of subscriptions;
-- Aviable to add multiple accounts for workers;
-- Automatic channel information collector;
-- Configurable automatic bot actions;
+- Token management with ncurses interface.
+- Automatic chat messages collector, sort of subscriptions.
+- Aviable to add multiple accounts for workers.
+- Automatic channel information collector.
+- Configurable automatic bot actions.
 
 ### Tech Stack
 
 Backend:
 
-- [Python](https://www.python.org/);
-- [Pydantic](https://docs.pydantic.dev/latest/);
-- [FastAPI](https://fastapi.tiangolo.com/);
-- [RabbitMQ](https://www.rabbitmq.com/);
-- [aio-pika](https://docs.aio-pika.com/).
-- [PostgreSQL](https://www.postgresql.org/);
-- [SQLModel](https://sqlmodel.tiangolo.com/);
+- [Python](https://www.python.org/)
+- [Pydantic](https://docs.pydantic.dev/latest/)
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [aio-pika](https://docs.aio-pika.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [SQLModel](https://sqlmodel.tiangolo.com/)
 - [pytest](https://docs.pytest.org/en/stable/)
 
 Frontend:
 
-- [React](https://react.dev/);
-- [Node.js](https://nodejs.org/en);
+- [React](https://react.dev/)
+- [Node.js](https://nodejs.org/en)
 ...
 
 Devtools:
