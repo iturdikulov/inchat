@@ -1,6 +1,7 @@
 # InChat
 
-Project status: WIP, alpha.
+Project status: WIP.
+Project updates: [TODO](TODO.md).
 
 Self-hosted Twitch chat tracker, collects chat messages and do something with
 them.

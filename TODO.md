@@ -6,7 +6,7 @@
 - [ ] Initialize docker-compose.
 - [ ] Test scripts to work with twitch authentication.
 
-# Archive
+## Archive
 
 - [x] Initialize git, uv2nix.
 - [x] Add basic backend requirements.
