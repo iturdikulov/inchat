@@ -17,10 +17,11 @@ Initial PLANNED features (priority matters):
 
 Project tested on:
 
-- [Python](https://www.python.org/) 3.12
-- [RabbitMQ](https://www.rabbitmq.com/) 4.0
-- [PostgreSQL](https://www.postgresql.org/) 16
-- [Node.js](https://nodejs.org/en) 23
+- [Python](https://www.python.org/) 3.12.
+- [RabbitMQ](https://www.rabbitmq.com/) 4.0.
+- [PostgreSQL](https://www.postgresql.org/) 16.
+- [Node.js](https://nodejs.org/en) 23.
+- [Docker](https://www.docker.com/) 27, (maybe later switch to Nix Flakes).
 
 ## External links
 
