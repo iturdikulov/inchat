@@ -1,4 +1,4 @@
-## InChat
+# InChat
 
 Project status: WIP, alpha.
 
@@ -13,31 +13,14 @@ Initial PLANNED features (priority matters):
 - Automatic channel information collector.
 - Configurable automatic bot actions.
 
-### Tech Stack
+## Requirements
 
-Backend:
+Project tested on:
 
-- [Python](https://www.python.org/)
-- [Pydantic](https://docs.pydantic.dev/latest/)
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [RabbitMQ](https://www.rabbitmq.com/)
-- [aio-pika](https://docs.aio-pika.com/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [SQLModel](https://sqlmodel.tiangolo.com/)
-- [pytest](https://docs.pytest.org/en/stable/)
-
-Frontend:
-
-- [React](https://react.dev/)
-- [Node.js](https://nodejs.org/en)
-...
-
-Devtools:
-
-- [Nix flakes](https://nixos.wiki/wiki/Flakes)
-- [uv2nix](https://github.com/pyproject-nix/uv2nix)
-- [Ruff](https://docs.astral.sh/ruff/)
-- [pre-commit](https://github.com/pre-commit/pre-commit)
+- [Python](https://www.python.org/) 3.12
+- [RabbitMQ](https://www.rabbitmq.com/) 4.0
+- [PostgreSQL](https://www.postgresql.org/) 16
+- [Node.js](https://nodejs.org/en) 23
 
 ## External links
 
